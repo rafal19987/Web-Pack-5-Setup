@@ -40,3 +40,16 @@ npm run build
 ```bash
 npm run dev
 ```
+
+# Change title of your webpage
+- open webpack.config.js by using your code editor
+ scroll to bottom and change title value in plugins
+ ```js
+  plugins: [
+    new HtmlWebpackPlugin({
+      title: 'Webpack App', // type your app title for display
+      filename: 'index.html',
+      template: 'src/template.html',
+    }),
+  ],
+ ```
