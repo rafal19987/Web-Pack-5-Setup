@@ -1,6 +1,5 @@
-# setup with webpack 5 
+## Setup webpack 5 with devDependecies:
 
-## Setup with devDependecies
 - "@babel/core": "^7.20.5",
 - "@babel/preset-env": "^7.20.2",
 - "babel-loader": "^9.1.0",
@@ -15,7 +14,7 @@
 
 ## Clone
 
-- goto folder where you want to create your app
+- to clone repository you have to go to folder where you want to create your app
 - open your code editor
 - open terminal and type:
 ```bash
@@ -25,7 +24,7 @@ cd setup
 
 ## Install
 
-- in your local folder with setup type into terminal
+- when you are in your local folder with cloned setup by prev step, type into terminal
 ```bash 
 npm i
 ```
