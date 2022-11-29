@@ -43,7 +43,7 @@ npm run dev
 
 # Change title of your webpage
 - open webpack.config.js by using your code editor
- scroll to bottom and change title value in plugins
+- scroll to bottom and change title value in plugins
  ```js
   plugins: [
     new HtmlWebpackPlugin({
