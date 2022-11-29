@@ -47,7 +47,7 @@ npm run dev
  ```js
   plugins: [
     new HtmlWebpackPlugin({
-      title: 'Webpack App', // type your app title for display
+      title: 'Webpack App', // right here you can change your title to display
       filename: 'index.html',
       template: 'src/template.html',
     }),
