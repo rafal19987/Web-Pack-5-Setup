@@ -19,7 +19,7 @@
 - open your code editor
 - open terminal and type:
 ```bash
-git clone https://github.com/rafal19987/React-Booking-App.git
+git clone https://github.com/rafal19987/setup.git
 cd webpack_starter
 ```
 
