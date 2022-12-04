@@ -18,7 +18,7 @@
 - open your code editor
 - open terminal and type:
 ```bash
-git clone https://github.com/rafal19987/setup.git
+git clone https://github.com/rafal19987/Web-Pack-5-Setup.git
 cd setup
 ```
 
